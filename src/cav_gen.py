@@ -105,7 +105,6 @@ def generate_(
         max_key = max(logits_dict, key=logits_dict.get)
 
 
-        # 打印结果
         print(logits_dict, max_key)
         return max_key
 

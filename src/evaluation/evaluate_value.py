@@ -70,10 +70,10 @@ Labels are: \"Yes\", \"No\"."""
 def control_success_LLM(dataset:pd.DataFrame, value, classification_model_name):
 
     if classification_model_name == 'deepseek':
-        client = OpenAI(api_key="sk-df8b2c57af8743aba9d5f820be325f45", base_url="https://api.deepseek.com/beta")
+        client = OpenAI(api_key="xxx", base_url="xxx")
         api_name = 'deepseek-chat'
     elif 'gpt-4o' in classification_model_name:
-        client = OpenAI(api_key="sk-NFFgbBfBGZxpDNxB6ezwH2Tpz26y8fcOAnK1GV1Bfrc56NH4", base_url='https://api2.aigcbest.top/v1')
+        client = OpenAI(api_key="xxx", base_url='xxx')
         api_name = 'gpt-4o'
     system_message = f""""""
 
