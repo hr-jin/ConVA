@@ -2,12 +2,11 @@
 
 This repository contains the official implementation and data for our **ACL 2025 Main Conference** paper **"Internal Value Alignment in Large Language Models through Controlled Value Vector Activation"**.
 
-![Framework](figs/framework.png)
-
 ## Overview
 
 This work proposes a effective method to internally align large language models with specific human values through controlled activation of learned value vectors.
 
+![Framework](figs/framework.png)
 
 ## Installation
 
