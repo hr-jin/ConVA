@@ -1,0 +1,6 @@
+evaluate==0.4.3
+krippendorff==0.8.1
+loguru==0.7.3
+scikit-learn==1.6.1
+torchaudio==2.5.1
+torchvision==0.20.1
