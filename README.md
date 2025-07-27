@@ -1,5 +1,3 @@
-Here's the updated `README.md` with the ACL 2025 conference information highlighted:
-
 ```markdown
 # Internal Value Alignment in Large Language Models through Controlled Value Vector Activation
 
