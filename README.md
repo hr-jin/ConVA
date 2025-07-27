@@ -2,7 +2,7 @@
 
 This repository contains the official implementation and data for our **ACL 2025 Main Conference** paper **"Internal Value Alignment in Large Language Models through Controlled Value Vector Activation"**.
 
-![Teaser Figure](figs/framework.pdf)
+![Framework](figs/framework.png)
 
 ## Overview
 
@@ -48,7 +48,7 @@ bash scripts/run_cav.sh
 
 ## Citation
 
-If you use this work, please cite our **ACL 2025** paper:
+If you use this work, please cite our paper:
 
 ```bibtex
 @inproceedings{jin-etal-2025-internal,
