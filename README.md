@@ -1,4 +1,3 @@
-```markdown
 # Internal Value Alignment in Large Language Models through Controlled Value Vector Activation
 
 This repository contains the official implementation and data for our **ACL 2025 Main Conference** paper **"Internal Value Alignment in Large Language Models through Controlled Value Vector Activation"**.
